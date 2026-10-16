@@ -28,16 +28,20 @@ export { default as fallbackProjects } from '../../../server/src/data/projects.j
 
 export const profile = {
   name: 'Kundan Kumar',
-  roles: ['Full-Stack MERN Developer', 'Real-Time Systems Builder', 'AI-Integrated App Developer', 'CS Undergrad @ IIIT Guwahati'],
+  roles: ['Software Engineer',
+  'Full-Stack & Real-Time Systems Developer',
+  'AI/ML & Data Enthusiast',
+  'CS Undergrad @ IIIT Guwahati'],
   tagline:
-    'I build full-stack, real-time and AI-enabled web applications with the MERN stack, from REST APIs and databases to polished React interfaces.',
+     'I build end-to-end software solutions spanning full-stack development, real-time systems, data-driven applications, and AI integration—from backend APIs and databases to intelligent features and user-focused interfaces.',
   summary:
     'Computer Science undergraduate at IIIT Guwahati with hands-on experience in full-stack web development, REST APIs, databases, real-time applications and AI integration. I enjoy building MERN-stack applications, integrating AI APIs, implementing authentication, and creating location-aware and real-time systems. I am interested in software engineering, data engineering and AI-enabled application development.',
   email: 'kundanrider555666@gmail.com',
   phone: '+91 9534715863',
   location: 'Guwahati, Assam, India',
-  avatar: 'https://avatars.githubusercontent.com/u/220587525?v=4',
-  resume: '/Kundan_Kumar_Resume.pdf',
+  // avatar: 'https://avatars.githubusercontent.com/u/220587525?v=4',
+  avatar: '/profile.jpg',
+  resume: '/KUNDAN_RESUME.pdf',
   socials: {
     github: 'https://github.com/K-K-R157',
     linkedin: 'https://www.linkedin.com/in/kundan-kumar-27475927b/',
